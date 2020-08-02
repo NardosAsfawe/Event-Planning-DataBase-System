@@ -1,5 +1,10 @@
 # Event-Planning-DataBase-System
 
+<H3>Project Proposal</H3>
+
+<p>Design a database system for an event planning business to allow customers to request for services and for the firm to manage their resource allocation and employees effectively.</p>
+
+
 <H3>Entity Relationship Diagram </H3>
 
 ![](https://github.com/NardosAsfawe/Event-Planning-DataBase-System/blob/master/ERD.png)
